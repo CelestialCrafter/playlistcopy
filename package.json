@@ -1,0 +1,13 @@
+{
+  "name": "playlistcopy",
+  "version": "1.0.0",
+  "description": "Copies a spotify playlist",
+  "main": "app.js",
+  "author": "CelestialCrafter <celestialcraftermc@gmail.com> (https://github.com/CelestialCrafter)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "open": "^8.2.1",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
