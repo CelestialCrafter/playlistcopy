@@ -8,4 +8,5 @@ to: Playlist to add songs to
 
 Usage:
 `npm i` or `yarn`
+
 `node . <fromPlaylist> <toPlaylist>`
